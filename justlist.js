@@ -6,4 +6,4 @@ function counter(end) {
   }
 }
 
-console.log(counter(15));
+counter(15);

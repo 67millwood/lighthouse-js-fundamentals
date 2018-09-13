@@ -18,5 +18,5 @@ function counter(start, end) {
   }
 }
 
-counter(100, 200);
+counter(100, 600);
 
