@@ -1,7 +1,7 @@
-// loopy numbers 100 to 200
+// loopy stretch
 
 
-function LoopyLighthouse(range, multiples, words) {
+function loopyLighthouse(range, multiples, words) {
   var start = range[0];
   var end = range[1];
 
@@ -21,5 +21,5 @@ function LoopyLighthouse(range, multiples, words) {
   }
 }
 
-LoopyLighthouse([15, 90], [2 ,5], ["Batty", "Beacon"]);
+loopyLighthouse([15, 90], [2 ,5], ["Batty", "Beacon"]);
 
